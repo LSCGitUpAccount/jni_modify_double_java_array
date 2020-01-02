@@ -33,4 +33,4 @@ win安装jdk后，两个文件所在路径如下图
 ```java
 System.loadLibrary("jniTest1");
 ```
-![image](https://note.youdao.com/yws/api/personal/file/WEBbc2f0eacbbce5c571f9c06d2366a43ae?method=download&shareKey=bb65e8013f2c2a078f549c31510291e7)
+![image](http://note.youdao.com/noteshare?id=bb65e8013f2c2a078f549c31510291e7)
