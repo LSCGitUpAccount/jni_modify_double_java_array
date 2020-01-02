@@ -20,7 +20,7 @@ javah com.test.ModifyDoubleArray
 
 win安装jdk后，两个文件所在路径如下图
 
-![](https://note.youdao.com/yws/api/personal/file/WEB13ffe50335f0471c1801d9a693993ca3?method=download&shareKey=e00c0317f8ba792c330a1623bedfe894)
+![image](https://note.youdao.com/yws/api/personal/file/WEB13ffe50335f0471c1801d9a693993ca3?method=download&shareKey=e00c0317f8ba792c330a1623bedfe894)
 
 ## 二、 lib文件夹
 
@@ -33,5 +33,4 @@ win安装jdk后，两个文件所在路径如下图
 ```java
 System.loadLibrary("jniTest1");
 ```
-
-![](https://note.youdao.com/yws/api/personal/file/WEBbc2f0eacbbce5c571f9c06d2366a43ae?method=download&shareKey=bb65e8013f2c2a078f549c31510291e7)
+![image](https://note.youdao.com/yws/api/personal/file/WEBbc2f0eacbbce5c571f9c06d2366a43ae?method=download&shareKey=bb65e8013f2c2a078f549c31510291e7)
